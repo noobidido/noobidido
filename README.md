@@ -2,7 +2,7 @@
 - 👀 I’m interested in Neural Networks
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Underwater Image Segmentation
-- 📫 How to reach me ... email: ashirabrar7@gmail.com
+- 📫 How to reach me ... email: syedashirabrar@gmail.com
 
 <!---
 noobidido/noobidido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
